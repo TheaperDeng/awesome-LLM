@@ -2,7 +2,9 @@
 
 ## Paper List
 
-1. Personalized Transformer for Explainable Recommendation, http://arxiv.org/abs/2105.11601
+1. Personalized Transformer for Explainable Recommendation, ACL-IJCNLP 2021, http://arxiv.org/abs/2105.11601
+   
+   1. Reading note: This paper is nealy the same as 2202.07371, see here: [2202.07371.md · GitHub](https://gist.github.com/TheaperDeng/720f9f9283de6d003fda63a17aef1cf8)
 
 2. Empowering News Recommendation with Pre-trained Language Models, http://arxiv.org/abs/2104.07413
 
