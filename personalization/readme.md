@@ -1,5 +1,12 @@
 # LLM & personalization
 
+## Mainly reading
+
+1. Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, https://arxiv.org/abs/2303.14524
+
+2. Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language
+   Modelling Paradigm Adaptations in Recommender Systems, [[2302.03735] Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems](https://arxiv.org/abs/2302.03735)
+
 ## Paper List
 
 1. Personalized Transformer for Explainable Recommendation, ACL-IJCNLP 2021, http://arxiv.org/abs/2105.11601
@@ -16,7 +23,4 @@
 
 5. Improving Personalized Explanation Generation through Visualization, https://aclanthology.org/2022.acl-long.20/
 
-6. Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language
-   Modelling Paradigm Adaptations in Recommender Systems, https://arxiv.org/abs/2302.03735
-
-7. A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges, https://arxiv.org/abs/2303.07275
+6. A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges, https://arxiv.org/abs/2303.07275
