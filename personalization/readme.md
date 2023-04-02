@@ -1,5 +1,8 @@
 # LLM & personalization
 
+## Some great workshop
+1. SCAI: Search-Oriented Conversational AI, https://scai.info/#scai-2022-program
+
 ## Mainly reading
 
 1. Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, https://arxiv.org/abs/2303.14524
